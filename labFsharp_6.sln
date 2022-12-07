@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "labFsharp_6", "labFsharp_6\labFsharp_6.fsproj", "{965B5B8F-007F-464F-8A96-2D2B66BE91FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{965B5B8F-007F-464F-8A96-2D2B66BE91FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965B5B8F-007F-464F-8A96-2D2B66BE91FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965B5B8F-007F-464F-8A96-2D2B66BE91FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965B5B8F-007F-464F-8A96-2D2B66BE91FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DDFD3D0-ABB2-4FEF-8BA5-963F40C939E4}
+	EndGlobalSection
+EndGlobal
